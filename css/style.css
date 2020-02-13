@@ -60,6 +60,8 @@ h2 {
     margin: 1rem 0;
   }
 
+  .info-roeselare { border: 4px solid #009970; }
+
   .info-item {
       width: 150px;
   }
